@@ -1,6 +1,6 @@
 namespace laboratory_12.Models
 {
-    public class Airplane
+    public class Airplanes
     {
         public int Id { get; set; }
         public string Name { get; set; }
